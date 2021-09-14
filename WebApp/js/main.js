@@ -1,0 +1,1 @@
+let teto=document.getElementById('texto');
